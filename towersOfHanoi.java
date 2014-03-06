@@ -33,5 +33,4 @@ public class TowerPrac {
 		TowerPrac t=new TowerPrac(4, "A", "B", "C");
 		t.Solve();
 	}
-
 }
